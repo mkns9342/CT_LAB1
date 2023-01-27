@@ -1,0 +1,13 @@
+pwd
+cd /home/files/2022210002
+pwd
+touch names.txt
+ls
+cat>names.txt
+cat names.txt
+touch kamal.txt
+cp names.txt blames.txt
+cat kamal.txt
+rm names.txt
+tail -2 kamal.txt
+wc -l kamal.txt
